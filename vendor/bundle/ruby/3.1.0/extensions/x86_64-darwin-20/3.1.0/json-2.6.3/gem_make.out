@@ -1,0 +1,16 @@
+current directory: /Users/mac/Downloads/Text-Translation-API-App-V3-IOS-master 2/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+/usr/local/opt/ruby@3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mac/Downloads/Text-Translation-API-App-V3-IOS-master 2/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230523-29941-lnsrj1 sitelibdir\=./.gem.20230523-29941-lnsrj1 clean
+
+current directory: /Users/mac/Downloads/Text-Translation-API-App-V3-IOS-master 2/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230523-29941-lnsrj1 sitelibdir\=./.gem.20230523-29941-lnsrj1
+make: Nothing to be done for `all'.
+
+current directory: /Users/mac/Downloads/Text-Translation-API-App-V3-IOS-master 2/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230523-29941-lnsrj1 sitelibdir\=./.gem.20230523-29941-lnsrj1 install
+
+current directory: /Users/mac/Downloads/Text-Translation-API-App-V3-IOS-master 2/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230523-29941-lnsrj1 sitelibdir\=./.gem.20230523-29941-lnsrj1 clean
